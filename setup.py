@@ -20,7 +20,7 @@ setup(
     author='Ben Miroglio',
     author_email='benmiroglio@gmail.com',
     url='https://github.com/benmiroglio/pymatch',
-    download_url='https://github.com/benmiroglio/pymatch/archive/{}.tar.gz'.format(VERSION),
+    download_url='git@github.com:AlgorexHealth/pymatch.git',
     keywords=['logistic', 'regression', 'matching', 'observational', 'study', 'causal', 'inference'],
     include_package_data=True,
     install_requires=dependencies
