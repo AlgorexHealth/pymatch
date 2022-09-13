@@ -19,7 +19,7 @@ setup(
     description='Matching techniques for Observational Studies',
     author='Ben Miroglio',
     author_email='benmiroglio@gmail.com',
-    url='https://github.com/benmiroglio/pymatch',
+    url='https://github.com/AlgorexHealth/pymatch',
     download_url='git@github.com:AlgorexHealth/pymatch.git',
     keywords=['logistic', 'regression', 'matching', 'observational', 'study', 'causal', 'inference'],
     include_package_data=True,
